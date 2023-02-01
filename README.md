@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://awabportfolio.netlify.app/](https://awabportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abdulahadali.netlify.app/](https://abdulahadali.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
