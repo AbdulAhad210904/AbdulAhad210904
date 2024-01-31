@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad Ali</h1>
-<h3 align="center">A Young Developer</h3>
+<h3 align="center">A Young Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulahad210904&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahad210904" /> </p>
 
-- 🌱 I’m currently learning **Data-Science |**  **ASP.NET**
+- 🌱 I’m currently learning **React |**  **ASP.NET**
 
 - 👨‍💻 All of my projects are available at [https://abdulahadali.netlify.app/](https://abdulahadali.netlify.app/)
 
