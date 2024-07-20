@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://abdulahadali.netlify.app/](https://abdulahadali.netlify.app/)
-
 - 💬 Ask me about **ASP .NET | MERN**
 
 - 📫 How to reach me **ahadghayyas@gmail.com**
