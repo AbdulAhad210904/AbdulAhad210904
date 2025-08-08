@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulahad210904&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahad210904" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **DEVOPS**
 
-- 💬 Ask me about **ASP .NET | MERN**
+- 💬 Ask me about **MERN | NextJS | ASP .NET**
 
 - 📫 How to reach me **ahadghayyas@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1fv6mi0_sAnw_cyE3jB7JyuoHTqHl8boW/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
