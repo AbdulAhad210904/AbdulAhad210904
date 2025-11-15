@@ -3,7 +3,13 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Building modern full-stack web & mobile applications using advanced web technologies, focusing on real-time features, secure authentication, and clean UI/UX for startups and international clients. I’ve successfully delivered projects for 100+ clients over 4+ years.<br>🤝 I’m looking to collaborate on<br>SaaS platforms, marketplace apps, websites, mobile apps, and any project that needs scalable architecture, production ready APIs, or end-to-end full stack execution.<br>💬 Ask me about<br>Full-stack development (Next.js / MERN / MEAN), React Native apps, authentication systems , Stripe integrations, REST APIs, Socket.io, database design, and building startup-ready MVPs.<br>⚡ Fun fact<br>Most of my clients become long term partners; I focus on clean engineering, fast delivery, and building products that actually make an impact.<br>
+- 🔭 I’m currently working on **building modern full-stack web & mobile applications** using advanced technologies, with a strong focus on real-time features, secure authentication, and clean UI/UX for startups and international clients. I’ve delivered projects for **100+ clients over 4+ years**.
+
+- 🤝 I’m looking to collaborate on **SaaS platforms, marketplace apps, websites, mobile apps**, and any project that requires scalable architecture, production-ready APIs, or end-to-end full-stack execution.
+
+- 💬 Ask me about **Full-stack development (Next.js / MERN / MEAN), React Native, authentication systems, Stripe integrations, REST APIs, Socket.io, database design**, and building startup-ready MVPs.
+
+- ⚡ Fun fact: **Most of my clients turn into long-term partners** — I focus on clean engineering, fast delivery, and building products that create real impact.
 
 
 ## 🌐 Socials:
