@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on **building modern full-stack web & mobile applications** using advanced technologies, with a strong focus on real-time features, secure authentication, and clean UI/UX for startups and international clients. I’ve delivered projects for **100+ clients over 4+ years**.
+- 🔭 I’m currently working on **building modern full-stack web & mobile applications** using advanced technologies, with a strong focus on real-time features, secure authentication, and clean UI/UX for startups and international clients. I’ve delivered projects for **100+ clients over 6+ years**.
 
 - 🤝 I’m looking to collaborate on **SaaS platforms, marketplace apps, websites, mobile apps**, and any project that requires scalable architecture, production-ready APIs, or end-to-end full-stack execution.
 
